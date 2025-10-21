@@ -1,0 +1,162 @@
+[
+  {
+    "image_id": 1,
+    "image_path": "images/books.png",
+    "question": "What items can you see in this image?",
+    "answer": "books",
+    "inference_time": 0.7709836959838867,
+    "timestamp": "2025-10-21T05:30:44.356193"
+  },
+  {
+    "image_id": 1,
+    "image_path": "images/books.png",
+    "question": "How many books are on the shelf?",
+    "answer": "13",
+    "inference_time": 0.2418835163116455,
+    "timestamp": "2025-10-21T05:30:45.004847"
+  },
+  {
+    "image_id": 1,
+    "image_path": "images/books.png",
+    "question": "What text is on the white book on the right?",
+    "answer": "can ' t read it",
+    "inference_time": 0.3956482410430908,
+    "timestamp": "2025-10-21T05:30:46.057354"
+  },
+  {
+    "image_id": 2,
+    "image_path": "images/desk.png",
+    "question": "What electronic devices are on the desk?",
+    "answer": "laptop and mouse",
+    "inference_time": 0.25134754180908203,
+    "timestamp": "2025-10-21T05:30:47.069685"
+  },
+  {
+    "image_id": 2,
+    "image_path": "images/desk.png",
+    "question": "How many game controllers can you see?",
+    "answer": "one",
+    "inference_time": 0.16374707221984863,
+    "timestamp": "2025-10-21T05:30:47.519854"
+  },
+  {
+    "image_id": 2,
+    "image_path": "images/desk.png",
+    "question": "What color is the game controller?",
+    "answer": "white",
+    "inference_time": 0.2871723175048828,
+    "timestamp": "2025-10-21T05:30:48.070998"
+  },
+  {
+    "image_id": 3,
+    "image_path": "images/bottle.png",
+    "question": "What is this item?",
+    "answer": "bottle",
+    "inference_time": 0.16651439666748047,
+    "timestamp": "2025-10-21T05:30:48.778040"
+  },
+  {
+    "image_id": 3,
+    "image_path": "images/bottle.png",
+    "question": "What brand name is printed on the bottle?",
+    "answer": "coca cola",
+    "inference_time": 0.16927838325500488,
+    "timestamp": "2025-10-21T05:30:49.265345"
+  },
+  {
+    "image_id": 3,
+    "image_path": "images/bottle.png",
+    "question": "What color is this water bottle?",
+    "answer": "blue",
+    "inference_time": 0.26732444763183594,
+    "timestamp": "2025-10-21T05:30:49.843885"
+  },
+  {
+    "image_id": 4,
+    "image_path": "images/notebook.png",
+    "question": "What is this item?",
+    "answer": "styrofoam container",
+    "inference_time": 1.285496473312378,
+    "timestamp": "2025-10-21T05:30:51.957058"
+  },
+  {
+    "image_id": 4,
+    "image_path": "images/notebook.png",
+    "question": "What is the largest English word on the notebook cover?",
+    "answer": "scrummy",
+    "inference_time": 0.40912961959838867,
+    "timestamp": "2025-10-21T05:30:52.793667"
+  },
+  {
+    "image_id": 4,
+    "image_path": "images/notebook.png",
+    "question": "What color is the side of the notebook?",
+    "answer": "blue",
+    "inference_time": 0.23195815086364746,
+    "timestamp": "2025-10-21T05:30:53.576421"
+  },
+  {
+    "image_id": 5,
+    "image_path": "images/screen.png",
+    "question": "What type of content is displayed on the screen?",
+    "answer": "webpage",
+    "inference_time": 0.1922149658203125,
+    "timestamp": "2025-10-21T05:30:54.315437"
+  },
+  {
+    "image_id": 5,
+    "image_path": "images/screen.png",
+    "question": "What can you see in the document title?",
+    "answer": "menu",
+    "inference_time": 0.14741802215576172,
+    "timestamp": "2025-10-21T05:30:54.772797"
+  },
+  {
+    "image_id": 6,
+    "image_path": "images/campus.png",
+    "question": "What main elements can you see in this image?",
+    "answer": "grass and trees",
+    "inference_time": 0.21121621131896973,
+    "timestamp": "2025-10-21T05:30:55.518051"
+  },
+  {
+    "image_id": 6,
+    "image_path": "images/campus.png",
+    "question": "What type of place is this?",
+    "answer": "park",
+    "inference_time": 0.1908583641052246,
+    "timestamp": "2025-10-21T05:30:55.991364"
+  },
+  {
+    "image_id": 6,
+    "image_path": "images/campus.png",
+    "question": "How does the weather look?",
+    "answer": "cloudy",
+    "inference_time": 0.522144079208374,
+    "timestamp": "2025-10-21T05:30:56.770094"
+  },
+  {
+    "image_id": 7,
+    "image_path": "images/classroom.png",
+    "question": "What scene is this? What main items are in the picture?",
+    "answer": "indoor scene",
+    "inference_time": 0.3993055820465088,
+    "timestamp": "2025-10-21T05:30:57.946978"
+  },
+  {
+    "image_id": 7,
+    "image_path": "images/classroom.png",
+    "question": "How many students can you clearly see in the foreground?",
+    "answer": "two",
+    "inference_time": 0.368194580078125,
+    "timestamp": "2025-10-21T05:30:58.948758"
+  },
+  {
+    "image_id": 7,
+    "image_path": "images/classroom.png",
+    "question": "Where is the projection screen in the classroom?",
+    "answer": "on wall",
+    "inference_time": 0.2703676223754883,
+    "timestamp": "2025-10-21T05:30:59.743752"
+  }
+]
